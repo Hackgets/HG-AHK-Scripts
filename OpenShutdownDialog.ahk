@@ -22,6 +22,6 @@ Gosub, ShutdownMenu
 Return
 
 ShutdownMenu:
-Send #b
+WinActivate, Program Manager
 Send !{F4}
 Return
