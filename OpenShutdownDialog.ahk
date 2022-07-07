@@ -23,5 +23,5 @@ Return
 
 ShutdownMenu:
 WinActivate, Program Manager
-Send !{F4}
+WinClose, A
 Return
